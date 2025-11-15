@@ -1,0 +1,37 @@
+{
+  "prefix": "hugeicons",
+  "info": {
+    "name": "Huge Icons",
+    "total": 4556,
+    "author": {
+      "name": "Hugeicons",
+      "url": "https://icon-sets.iconify.design/icon-sets/hugeicons/"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT"
+    },
+    "height": 24,
+    "category": "UI 24px"
+  },
+  "lastModified": 1759033396,
+  "icons": {
+    "1st-bracket": {
+      "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M6 3c-2.411 1.935-4 5.243-4 9s1.589 7.065 4 9M18 3c2.411 1.935 4 5.243 4 9s-1.589 7.065-4 9\"/>"
+    },
+    "1st-bracket-circle": {
+      "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M9 8c-1.205.86-2 2.33-2 4s.795 3.14 2 4m6-8c1.206.86 2 2.33 2 4s-.794 3.14-2 4\"/><circle cx=\"12\" cy=\"12\" r=\"10\"/></g>"
+    },
+    "1st-bracket-square": {
+      "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-linejoin=\"round\" stroke-width=\"1.5\"><path d=\"M2.5 12c0-4.478 0-6.718 1.391-8.109S7.521 2.5 12 2.5c4.478 0 6.718 0 8.109 1.391S21.5 7.521 21.5 12c0 4.478 0 6.718-1.391 8.109S16.479 21.5 12 21.5c-4.478 0-6.718 0-8.109-1.391S2.5 16.479 2.5 12Z\"/><path stroke-linecap=\"round\" d=\"M9 8c-1.205.86-2 2.33-2 4s.795 3.14 2 4m6-8c1.206.86 2 2.33 2 4s-.794 3.14-2 4\"/></g>"
+    },
+    "2nd-bracket": {
+      "body": "<path fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"1.5\" d=\"M17.225 3c1.39.154 2.325.501 3.023 1.287C21.5 5.697 21.5 7.964 21.5 12.5s0 6.804-1.252 8.213c-.698.786-1.634 1.133-3.023 1.287m-10.45 0c-1.39-.154-2.325-.501-3.023-1.287C2.5 19.303 2.5 17.036 2.5 12.5s0-6.804 1.252-8.213C4.45 3.501 5.386 3.154 6.775 3\"/>"
+    },
+    "2nd-bracket-circle": {
+      "body": "<g fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"M15 8c.65.065 1.088.211 1.414.542C17 9.135 17 10.09 17 12s0 2.865-.586 3.458c-.326.33-.764.477-1.414.542m-6 0c-.65-.065-1.088-.211-1.414-.542C7 14.865 7 13.91 7 12s0-2.865.586-3.458C7.912 8.212 8.35 8.065 9 8\"/><circle cx=\"12\" cy=\"12\" r=\"10\"/></g>"
+    }
+  },
+  "width": 24,
+  "height": 24
+}
