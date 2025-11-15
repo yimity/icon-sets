@@ -61,6 +61,22 @@
     "height": 24,
     "category": "UI 24px"
   },
+  "hu": {
+    "name": "Huge Icons",
+    "total": 255,
+    "version": "1.0.2",
+    "author": {
+      "name": "Hugeicons",
+      "url": "https://icon-sets.iconify.design/icon-sets/hugeicons/"
+    },
+    "license": {
+      "title": "MIT",
+      "spdx": "MIT",
+      "url": "https://github.com/feathericon/feathericon/blob/master/LICENSE"
+    },
+    "height": 24,
+    "category": "UI 24px"
+  },
   "uim": {
     "name": "Unicons Monochrome",
     "total": 298,
